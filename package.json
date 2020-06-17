@@ -1,0 +1,24 @@
+{
+  "name": "scratchpad-app",
+  "version": "1.0.0",
+  "description": "A  application that  will use an express backend and save and retrieve note data from a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenanDeari/Scratchpad-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenanDeari/Scratchpad-App/issues"
+  },
+  "homepage": "https://github.com/KenanDeari/Scratchpad-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "path": "^0.12.7"
+  }
+}
